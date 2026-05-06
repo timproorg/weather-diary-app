@@ -28,6 +28,7 @@ Weather Diary - это графическое приложение для вед
 ### Инструкция по запуску
 
 1. **Скачайте проект:**
-```bash
 git clone https://github.com/timproorg/Weather-diary
 cd weather-diary-app
+2. **Запустите приложение:**
+python weather_diary.py
